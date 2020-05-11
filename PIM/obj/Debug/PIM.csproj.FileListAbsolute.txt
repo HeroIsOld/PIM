@@ -1,0 +1,15 @@
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\bin\Debug\PIM.exe.config
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\bin\Debug\PIM.exe
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\bin\Debug\PIM.pdb
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.Login.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.Properties.Resources.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.csproj.GenerateResource.Cache
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.csproj.CoreCompileInputs.cache
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.exe
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.pdb
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.Main.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.Sell.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.buy.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.INVENTORY.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.People.resources
+C:\Users\OldHero\Documents\Visual Studio 2017\Projects\PIM\PIM\obj\Debug\PIM.Backup.resources
